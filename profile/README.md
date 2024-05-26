@@ -1,4 +1,4 @@
-<h1 style="text-align: center; padding: 0 1em;">Ghosts Of War</h1>
+<h1 style="text-align: center; padding: 0 1rem;">Ghosts Of War</h1>
 
 
 **Who We Are**
