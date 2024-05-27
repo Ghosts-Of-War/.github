@@ -1,4 +1,4 @@
-#Scarlet Syndicate
+### Scarlet Syndicate
 
 
 **Who We Are**
