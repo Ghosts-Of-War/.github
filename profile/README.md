@@ -37,6 +37,6 @@ We invite you to join our community of relentless individuals who are committed 
 
 **Stay Connected**
 
-Follow us on social media (insert social media links here) to stay updated on upcoming events, workshops, and resources.
+Follow us on social media to stay updated on upcoming events, workshops, and resources.
 
 **Mediocrity? We Don't Know Her**
