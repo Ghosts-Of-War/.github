@@ -1,4 +1,4 @@
-<h1 style="text-align: center; padding: 0 1rem;">ScarletSyndicate</h1>
+#Scarlet Syndicate
 
 
 **Who We Are**
